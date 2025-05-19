@@ -45,7 +45,7 @@ portfolio_data = [
     },
     {
         "image": "../assets/images/auction-app-small.png",
-        "title": "Auction Profif calc App",
+        "title": "Auction Profit calculator",
         "description": "Calculate the profit of an auction for each bid. It calculates tax, comissions, and other fees and provide some infos to user be able to decide if it's worth or not.",
         "link": "https://apps-leilao-3f9d555278b9.herokuapp.com/",
         "git": "#",
