@@ -13,7 +13,10 @@ portfolio = Portfolio()
 stacks = Stacks()
 footer = Footer()
 
-body = dbc.Container([about, stacks, portfolio, footer], className="top32")
+update_date="2023-10-02"
+message_extra=html.Div(f"Some of the apps may have changed their URL or have been discontinued since the last update. Last Update: {update_date}", className="messageStyle")
+
+body = dbc.Container([about, stacks, message_extra, portfolio, footer], className="top32")
 
 
 def Homepage():

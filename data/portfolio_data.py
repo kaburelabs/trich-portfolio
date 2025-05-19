@@ -15,26 +15,25 @@ portfolio_data = [
         "image": "../assets/images/nft-monitor-twitter2.gif",
         "title": "Cardano NFT projects Monitor",
         "description": "This app monitor and track twitter followers of almost all NFT projects on the Cardano Blockchain.",
-        "link": "https://cardanonfts.trich.ai/",
+        "link": "https://nft-twitter.herokuapp.com/",
         "git": "#",
         "badge": ["Blockchain", "NFT", "Twitter", "Eng."],
     },
     {
-        "image": "../assets/images/singlearity-baseball.png",
-        "title": "SINGLEARITY - BASEBALL ANALYTICS",
-        "description": "This app was built to better understand the distribution of rarity of first NFT project on the Cardano Blockchain.",
-        "link": "https://dash.singlearity.com/static",
-        "git": "#",
-        "badge": ["Data Viz", "Baseball", "Stats", "ML"],
-    },
-
-    {
         "image": "../assets/images/customer-segment.png",
         "title": "RFM Customer Segmentation",
-        "description": "It's an app that allow users to get statistics from the baseball players with animation charts.",
+        "description": "RFM is a marketing analysis tool used to identify   purchasing behavior. This app was built to show the segmentation of the customers of a bank.",
         "link": "https://raghu-bank-segmentation.herokuapp.com/",
         "git": "#",
         "badge": ["Marketing", "Dashboard", "ML"],
+    },
+    {
+        "image": "../assets/images/spacebudz1.png",
+        "title": "Cardano - NFT SpaceBudz",
+        "description": "This app was built to better understand the distribution of rarity of first NFT project on the Cardano Blockchain.",
+        "link": "http://spacebudz.trich.xyz/",
+        "git": "#",
+        "badge": ["Blockchain", "NFT", "Stats", "Data Viz"],
     },
     {
         "image": "../assets/images/covid.png",
@@ -44,6 +43,22 @@ portfolio_data = [
         "git": "https://github.com/kaburelabs/Covid-19-Dash",
         "badge": ["Dash", "ML/Regression", "Dashboard"],
     },
+    {
+        "image": "../assets/images/auction-app-small.png",
+        "title": "Auction Profif calc App",
+        "description": "Calculate the profit of an auction for each bid. It calculates tax, comissions, and other fees and provide some infos to user be able to decide if it's worth or not.",
+        "link": "https://apps-leilao-3f9d555278b9.herokuapp.com/",
+        "git": "#",
+        "badge": ["Pandas", "Plotly", "Auction", "Data Viz"],
+    },    
+    {
+        "image": "../assets/images/mkt-promo-app-mini.png",
+        "title": "Mass Promo report",
+        "description": "Rendering a report with marketing data that provide insights about the performance of the promotions.",
+        "link": "https://verizon-report-mvp-ff2941cfd6b7.herokuapp.com/",
+        "git": "#",
+        "badge": ["Mkt data", "report", 'analysis'],
+    },
         {
         "image": "../assets/images/get-ahead-small.png",
         "title": "Mental Health NLP App",
@@ -52,6 +67,7 @@ portfolio_data = [
         "git": "#",
         "badge": ["NLP", "Data Viz", "Mental Health"],
     },
+
         {
         "image": "../assets/images/kop-mini-report.png",
         "title": "Global Sector Market Analysis",
@@ -68,15 +84,6 @@ portfolio_data = [
         "git": "https://github.com/kaburelabs/plotly-churn-app",
         "badge": ["Plotly", "Churn", "Eli5", "ML"],
     },
-    
-    {
-        "image": "../assets/images/mkt-promo-app-mini.png",
-        "title": "Mass Promo report",
-        "description": "Rendering a report with marketing data that provide insights about the performance of the promotions.",
-        "link": "https://verizon-report-mvp-ff2941cfd6b7.herokuapp.com/",
-        "git": "#",
-        "badge": ["Mkt data", "report", 'analysis'],
-    },
     {
         "image": "../assets/images/wine.png",
         "title": "Wine Recommender System",
@@ -85,13 +92,14 @@ portfolio_data = [
         "git": "https://github.com/kaburelabs/Wine-Project-Dash",
         "badge": ["NLP", "Recommendation", "Kmeans"],
     },
+
     {
-        "image": "../assets/images/spacebudz1.png",
-        "title": "Cardano - NFT SpaceBudz",
-        "description": "This app was built to better understand the distribution of rarity of first NFT project on the Cardano Blockchain.",
-        "link": "https://spacebudz-analytics.herokuapp.com",
+        "image": "../assets/images/singlearity-baseball.png",
+        "title": "BASEBALL ANALYTICS - discontinued",
+        "description": "It's an app that allow users to get statistics from the baseball players with animation charts.",
+        "link": "https://dash.singlearity.com/static",
         "git": "#",
-        "badge": ["Blockchain", "NFT", "Stats", "Data Viz"],
+        "badge": ["Data Viz", "Baseball", "Stats", "ML"],
     },
     {
         "image": "../assets/images/churn.png",
@@ -200,3 +208,6 @@ portfolio_data = [
     # },
 
 ]
+
+
+

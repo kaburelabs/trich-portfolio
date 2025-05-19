@@ -1,5 +1,11 @@
-pandas==2.0.2
+# pandas==2.0.2
 dash==2.10.2
 dash-trich-components==1.0.0
 dash-bootstrap-components==1.4.1
 gunicorn==20.1.0
+
+# pandas==2.2.3
+# dash==dash-3.0.4
+# dash-trich-components==1.0.0
+# dash-bootstrap-components==2.0.2
+# gunicorn==23.0.0

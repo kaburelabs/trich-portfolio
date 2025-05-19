@@ -1,5 +1,5 @@
 # Data
-import pandas as pd
+# import pandas as pd
 
 # Dash
 import dash
@@ -34,7 +34,7 @@ app = dash.Dash(
     meta_tags=meta_tags,
 )
 
-app.title = "trich.ai portfolio"
+app.title = "trich portfolio"
 
 
 app.index_string = """<!DOCTYPE html>
@@ -67,4 +67,4 @@ app.layout = Homepage()
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run(debug=True)

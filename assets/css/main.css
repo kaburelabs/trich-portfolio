@@ -42,7 +42,12 @@ body {
 .about_logos a:hover {
     color: var(--primary);
 }
-
+.messageStyle {
+    /* color:  */
+    padding: 0px 16px;
+    font-size: 14px;
+    font-style: italic;
+}
 .portfolio {
     margin: 0;
 }
@@ -66,6 +71,12 @@ body {
 .footer .row {
     align-items: center;
 }
+
+/* .item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
 
 #homepage {
     padding-top: 86px;
