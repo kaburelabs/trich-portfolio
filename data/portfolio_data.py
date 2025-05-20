@@ -1,4 +1,17 @@
 portfolio_data = [
+
+    {
+        "image": "../assets/images/upwork-small-page.png",
+        "title": "Upwork Profile",
+        "description": "My Upwork profile where I have 45+ projects and 25+ public reviews from clients. You can check it out to see my previous work and what my clients say about me.",
+        "link": "https://www.upwork.com/freelancers/~0163c4a246540fb9a3",
+        "git": "#",
+        "badge": [
+            "Reviews",
+            "Projects",
+            "100% Job Success",
+        ],
+    },
     {
         "image": "../assets/images/portfolio.png",
         "title": "Trich Portfolio",
