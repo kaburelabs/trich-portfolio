@@ -1,5 +1,4 @@
 portfolio_data = [
-
     {
         "image": "../assets/images/upwork-small-page.png",
         "title": "Upwork Profile",
@@ -10,6 +9,18 @@ portfolio_data = [
             "Reviews",
             "Projects",
             "100% Job Success",
+        ],
+    },
+    {
+        "image": "../assets/images/Kaggle-grandmaster.png",
+        "title": "Kaggle Projects",
+        "description": "Kaggle is a platform for data science competitions. I have achieved the title of Grandmaster badge which is the highest achievement on the platform. 17 gold | 11 silver | 14 bronze medals",
+        "link": "https://www.kaggle.com/kabure",
+        "git": "#",
+        "badge": [
+            "Data Science",
+            "Competition",
+            "Projects",
         ],
     },
     {
